@@ -1,5 +1,21 @@
 Déploiement et Surveillance avec Terraform, CLI Python & Power BI
 
+Encore merci :) / J'ai 75% du total car je l'ai fait en 7h je suis actuellement en free lance cette semaine j'ai réalisé cela le soir (Avec plus de temps je peux vous faire une configuration bien plus avancée :) )
+
+VPS :
+193.70.2.61
+USERNAME: ubuntu
+MDP : B6D@y_cRBmR9@g-Nmpub
+
+ssh : ssh ubuntu@193.70.2.61
+
+Zabbix:
+
+http://193.70.2.61/zabbix
+
+ID: Admin
+MDP: oY266QWNQY9J8wM@gM6jyC
+
 1️⃣ Déploiement du Serveur Zabbix avec Terraform sur OVH
 
 🔹 Prérequis
