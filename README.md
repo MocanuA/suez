@@ -147,11 +147,7 @@ Filtrage et transformation des données
 
 Merci à Martin et à Suez pour l'opportunité ! 🎉
 
-Liens et captures :)
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
+Liens (et captures :)
 
 https://learn.microsoft.com/en-us/azure/developer/terraform/get-started-windows-bash
 
