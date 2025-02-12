@@ -1,0 +1,6 @@
+ovh_application_key    = "d681a514d36cccd5"
+ovh_application_secret = "5a639f2c4b8eab15c49e6d7309f7b458"
+ovh_consumer_key       = "1c6a5b7233c66286552474588dc35376"
+vps_ip                 = "193.70.2.61"
+ssh_user               = "ubuntu"
+ssh_password           = "B6D@y_cRBmR9@g-Nmpub"
