@@ -1,6 +1,6 @@
 Déploiement et Surveillance avec Terraform, CLI Python & Power BI
 
-Encore merci :) / J'ai 75% du total car je l'ai fait en 7h je suis actuellement en free lance cette semaine j'ai réalisé cela le soir (Avec plus de temps je peux vous faire une configuration bien plus avancée :) )
+Encore merci :) / J'ai 75% du total car je l'ai fait en 7h je suis actuellement en free lance cette semaine j'ai réalisé cela le soir (Avec plus de temps je peux vous faire une configuration bien plus avancée :) et surtout j'ai une envie de progresser inimaginable surtout côté automatisation et graphiques <3)
 
 VPS :
 193.70.2.61
